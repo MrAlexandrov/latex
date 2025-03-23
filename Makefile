@@ -1,6 +1,6 @@
 # LATEX_CMD=xelatex
 LATEX_CMD=pdflatex
-TEX_FILE=AlexandrovMA_RK6_71B.tex
+TEX_FILE=filename.tex
 
 all: $(TEX_FILE)
 	$(LATEX_CMD) $(TEX_FILE)
