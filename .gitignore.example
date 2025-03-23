@@ -1,0 +1,13 @@
+*.aux
+!doc-spec/title_common.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.toc
+*.upa
+*.synctex.gz
+*.synctex(busy)
+*.upb
+
+.gitignore
